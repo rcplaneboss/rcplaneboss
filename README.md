@@ -1,3 +1,4 @@
+
 🚀 Qosim Abdul Rahman – Full-Stack Developer & Tech Enthusiast
 
 Building sleek, interactive, and high-performance web applications.
@@ -13,6 +14,23 @@ Building sleek, interactive, and high-performance web applications.
 ✈️ Also passionate about aeronautics—I study aeromodeling and build RC planes & cars!
 
 💡 I love turning ideas into reality through code and solving real-world problems with technology.
+
+🤝 Open to Collaboration!
+
+I’m always looking to collaborate on front-end and PHP projects involving:
+
+React & JavaScript
+
+GSAP Animations & Interactive UI
+
+Three.js & 3D Web Experiences
+
+PHP & MySQL for dynamic apps
+
+Tailwind CSS & Modern Web Design
+
+
+🚀 If you're working on an exciting project or want to collaborate, feel free to connect!
 
 🔗 Featured Projects:
 
