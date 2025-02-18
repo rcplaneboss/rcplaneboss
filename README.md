@@ -40,7 +40,7 @@ Tailwind CSS & Modern Web Design
 🔹 Investment System – Backend-powered financial platform
 🔹 Zentry – Advanced front-end UI/UX project
 
-🛠️ Soft Skills:
+🛠️ What I Bring to the Table:
 
 ✔️ Problem-Solving – Finding efficient solutions to coding challenges
 ✔️ Communication – Explaining technical ideas clearly
